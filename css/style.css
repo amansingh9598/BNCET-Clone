@@ -1,0 +1,186 @@
+.nav-bg{
+    background-color: #1a265c;
+    color: white;
+}
+
+.smalls{
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.box1{
+    background-color: #b02132;
+    color: white;
+    border-radius: 5px;
+}
+
+.box2{
+    background-color: #0a2352;
+    color: white;
+    border-radius: 5px;
+}
+
+.icons{
+    font-size: 50px;
+}
+
+.box1:hover{
+    background-color: white;
+    color: black;
+}
+
+.box2:hover{
+    background-color: white;
+    color: black;
+}
+
+.icons:hover{
+    color: #b02132;
+}
+
+.btns{
+    background-color: red;
+    color: white;
+}
+
+
+.btns:hover{
+    background-color: rgb(241, 48, 48);
+    color: white;
+}
+
+.box3{
+    background-color: #0a2352;
+    color: white;
+    border-radius: 5px;
+}
+
+.text-justify{
+    text-align: justify;
+}
+
+.btn-bg{
+    background-color: white;
+    color: #b02132;
+}
+
+.abc{
+    background-color: rgba(211, 44, 64, 0.708);
+    color: white;
+}
+
+.bg-image{
+    background-image: url(../images/back.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.side{
+    background-image: url(../images/slider-3.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 60vh;
+}
+.bg-side2{
+    background-image: url(../images/side2.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.bg-side{
+    background-color:rgba(29, 52, 87, 0.821);
+}
+
+.abcd{
+    font-size: 100px;
+    color: white;
+}
+
+.colors{
+    background-color: #0a2352;
+    color: white;
+}
+.colors:hover{
+    background-color: #0a2352;
+    color: white;
+}
+
+.opps{
+    background-color: #808080;
+    color: white;
+    height: 50vh;
+    text-align: center;
+}
+
+.t{
+    color: #b02132;
+}
+
+swiper-container {
+      width: 100%;
+      height: 100%;
+    }
+
+    swiper-slide {
+      text-align: center;
+      font-size: 18px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    swiper-slide img {
+      display: block;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      border: 2px solid gray;
+    }
+
+.aman{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+
+.tt:hover{
+    background-color: #0a2352 !important;
+    color: white;
+}
+
+.abct{
+    background-color:#2956a3;
+    color: white;
+}
+
+.size{
+    font-size: 25px;
+}
+
+.chairman{
+    background-color: transparent;
+    background-image: linear-gradient(134deg, #C71114 0%, #1A265C 100%);
+    color: white;
+}
+
+.trustee{
+    height: 150px;
+    width: 130px;
+    border-radius: 40%;
+}
+
+.txt{
+    background-color: #C71114;
+    color: white;
+    border-radius: 2px;
+    padding: 1px;
+    font-size: 12px;
+}
+
+.adm {
+  position: fixed;
+  top: 300px;
+  transform: rotate(90deg);
+  right: -67px;
+  z-index: 5;
+}
