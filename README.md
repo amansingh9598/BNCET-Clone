@@ -1,4 +1,4 @@
-#🎓 BNCET College Website Clone
+##BNCET College Website Clone🎓
 
 A responsive clone of the BNCET (B.N. College of Engineering & Technology) website, built to practice and demonstrate frontend web development skills.
 
